@@ -1,0 +1,47 @@
+
+
+.content-container1 h2{
+    color: #831111;
+    transition: transform 2s ;
+    display: inline-block;
+    padding: 15px 30px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: bold;
+    transition:transform 2s ;
+}
+.content-container1 p{
+    color: #0cc4ab;
+}
+.content-container2 h2{
+    color: #f10a0a;
+    transition: transform 2s ;
+    display: inline-block;
+    padding: 15px 30px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: bold;
+    transition:transform 2s ;
+}
+.content-container2 {
+    color: #0e0a0a;
+}
+.portfolio-group{
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+}
+.btn{
+    display: inline-block;
+    padding: 15px 30px;
+    border-radius: 50px;
+    text-decoration: none;
+    color: #411fbd;
+    font-weight: bold;
+    transition:transform 2s ;
+}
+.btn:hover{
+    transform: scale(1.1);
+}
+.btn.cv {background-color: rgb(14, 14, 13);}
+.btn.contact {background-color: rgb(27, 27, 26);}

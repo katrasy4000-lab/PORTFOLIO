@@ -1,0 +1,65 @@
+
+
+body{
+    background-color: #ffff;
+
+}
+.container{
+    position: relative;
+    width: 100%;
+    max-width: 1000px;
+    min-height: 1000px;
+    background: floralwhite;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    box-shadow: 035px 65px #ffff;
+}
+.container .left-side{
+    position: relative;
+    background: brown;
+    padding: 40px;
+}
+.h2{
+    color: #aa9f9f;
+    font-size:1.2em;
+    margin-top: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    line-height: 1.2em;
+}
+.contactInfo1 h3{
+    color: aliceblue;
+}
+.contactInfo2 h3{
+    color: aliceblue;
+}
+.contactInfo3 h3 {
+    color: aliceblue;
+}
+.ul {
+    position: relative;
+    width: 100%;
+    height: 6px;
+    background: #aa9f9f;
+    display: block;
+}
+
+.container .right-side{
+    position: relative;
+    background: floralwhite;
+    padding: 30px;
+}
+.title2{
+    color: rgb(231, 8, 8);
+    font-weight: bold;
+}
+.salama1 h2{
+    color: #f30808;
+}
+.salama2 h2{
+    color: #ec0b0b;
+}
+.salama3 h2{
+    color: #e60d0d;
+}
